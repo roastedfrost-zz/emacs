@@ -69,6 +69,7 @@
  ;; If there is more than one, they won't work right.
  )
 
+
 (projectile-global-mode)
 (add-to-list 'projectile-globally-ignored-directories "node_modules")
 (helm-projectile-on)
